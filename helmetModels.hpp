@@ -5,9 +5,9 @@ class ASG_cap {
 	class headset: ASG_yesNoBase{label="Headset"};
 };
 
-class ASG_beanie: ASG_cap {
+/* class ASG_beanie: ASG_cap {
 	lablel="Beanie [ASG]";
-};
+}; */
 
 class ASG_helmet {
 	label="Advanced Modular Helmet [ASG]";

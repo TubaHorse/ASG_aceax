@@ -19,7 +19,7 @@ class ASG_Cap_GRN_HS{
     headset="Yes";
 };
 
-class ASG_Watchcap_BLK {
+/* class ASG_Watchcap_BLK {
     model="ASG_beanie";
     camo="BLK";
     headset="No";
@@ -38,7 +38,7 @@ class ASG_WatchcapHS_GRN {
     model="ASG_beanie";
     camo="OLI";
     headset="Yes";
-};
+}; */
 
 class ASG_Helmet_aceax {
     model="ASG_helmet";
