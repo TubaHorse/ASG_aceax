@@ -1,13 +1,8 @@
 class ASG_cap {
 	lablel="Cap [ASG]";
-	options[]={"camo","headset"};
+	options[]={"camo"};
 	class camo: ASG_colourBase{};
-	class headset: ASG_yesNoBase{label="Headset"};
 };
-
-/* class ASG_beanie: ASG_cap {
-	lablel="Beanie [ASG]";
-}; */
 
 class ASG_helmet {
 	label="Advanced Modular Helmet [ASG]";

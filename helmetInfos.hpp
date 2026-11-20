@@ -1,13 +1,3 @@
-class ASG_Cap_BLK{
-    model="ASG_cap";
-    camo="BLK";
-    headset="No";
-};
-class ASG_Cap_BLK_HS{
-    model="ASG_cap";
-    camo="BLK";
-    headset="Yes";
-};
 class ASG_Cap_GRN{
     model="ASG_cap";
     camo="OLI";
@@ -18,27 +8,6 @@ class ASG_Cap_GRN_HS{
     camo="OLI";
     headset="Yes";
 };
-
-/* class ASG_Watchcap_BLK {
-    model="ASG_beanie";
-    camo="BLK";
-    headset="No";
-};
-class ASG_WatchcapHS_BLK {
-    model="ASG_beanie";
-    camo="BLK";
-    headset="Yes";
-};
-class ASG_Watchcap_GRN {
-    model="ASG_beanie";
-    camo="OLI";
-    headset="No";
-};
-class ASG_WatchcapHS_GRN {
-    model="ASG_beanie";
-    camo="OLI";
-    headset="Yes";
-}; */
 
 class ASG_Helmet_aceax {
     model="ASG_helmet";

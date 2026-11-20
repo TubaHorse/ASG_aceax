@@ -128,7 +128,7 @@ class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
 	patch="None";
 };
 
-class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
+class ASG_V_CarrierRigKBT_01_security_olive_f: ASG_vest_aceax {
 	camo="OLI";
 	loadout="Security";
 	patch="None";
