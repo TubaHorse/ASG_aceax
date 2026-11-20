@@ -1,12 +1,10 @@
+class ASG_Cap_BLK{
+    model="ASG_cap";
+    camo="BLK";
+};
 class ASG_Cap_GRN{
     model="ASG_cap";
     camo="OLI";
-    headset="No";
-};
-class ASG_Cap_GRN_HS{
-    model="ASG_cap";
-    camo="OLI";
-    headset="Yes";
 };
 
 class ASG_Helmet_aceax {
