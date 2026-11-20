@@ -123,13 +123,13 @@ class ASG_V_CarrierRigKBT_01_recon_M_olive_f: ASG_vest_aceax {
 };
 
 class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
-	camo="";
+	camo="BLK";
 	loadout="Security";
 	patch="None";
 };
 
 class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
-	camo="";
+	camo="OLI";
 	loadout="Security";
 	patch="None";
 };
