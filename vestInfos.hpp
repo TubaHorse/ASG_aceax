@@ -121,3 +121,15 @@ class ASG_V_CarrierRigKBT_01_recon_M_olive_f: ASG_vest_aceax {
 	loadout="Recon";
 	patch="Medic";
 };
+
+class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
+	camo="";
+	loadout="Security";
+	patch="None";
+};
+
+class ASG_V_CarrierRigKBT_01_security_black_f: ASG_vest_aceax {
+	camo="";
+	loadout="Security";
+	patch="None";
+};

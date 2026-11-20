@@ -4,7 +4,7 @@ class ASG_vest {
 	class camo: ASG_colourBase{};
 	class loadout {
 		label="Loadout";
-		values[]={"Combat","Compact","CQB","Recon"};
+		values[]={"Combat","Compact","CQB","Recon","Security"};
 		alwaysSelectable=1;
 		changeInGame=0;
 	};

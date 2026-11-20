@@ -21,6 +21,7 @@ class XtdGearModels {
     class ASG_yesNoBase {
         values[]={"Yes","No"};
     };
+    class SleevesBase;
     class CfgWeapons {
         #include "helmetModels.hpp"
         #include "uniformModels.hpp"

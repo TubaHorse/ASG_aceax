@@ -15,10 +15,7 @@ class ASG_uniform {
 		changeInGame=0;
 	};
 	class pants: shirt{label="Pants Colour"};
-    class sleeves {
-        label="Sleeves";
-        values[]={"Normal","Rolled"};
-        alwaysSelectable=0;
-        changeInGame=1;
+    class sleeves: SleevesBase {
+        values[]={"Full","Half"};
     };
 };
